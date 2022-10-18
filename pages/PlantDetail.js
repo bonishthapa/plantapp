@@ -21,124 +21,70 @@ const PlantDetail = () => {
         style={styles.headerImage}
       />
       <ScrollView style={styles.container}>
-        <View>
-          <Text style={styles.detailTitle}>Spinach</Text>
-        </View>
-        <View>
-          <Text>star</Text>
-        </View>
-        <View>
-          <Text>Description</Text>
-          <Text>
-            Spinach is thought to have originated in ancient Persia (modern Iran
-            and neighboring countries). It is not known by whom, or when,
-            spinach was introduced to India, but the plant was subsequ ently
-            introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable" Spinach is thought to have originated in ancient Persia
-            (modern Iran and neighboring countries). It is not known by whom, or
-            when, spinach was introduced to India, but the plant was subsequ
-            ently introduced to ancient China, where it was known as "Persian
-            vegetable"
-          </Text>
-        </View>
+        <Text style={styles.detailTitle}>Spinach</Text>
+        <Text>star</Text>
+        <Text>Description</Text>
+        <Text style={styles.description}>
+          Spinach is thought to have originated in ancient Persia (modern Iran
+          and neighboring countries). It is not known by whom, or when, spinach
+          was introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ introduced to India,
+          but the plant was subsequ ently introduced to ancient China, where it
+          was known as "Persian vegetable" Spinach is thought to have or
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable" Spinach is
+          thought to have originated in ancient Persia (modern Iran and
+          neighboring countries). It is not known by whom, or when, spinach was
+          introduced to India, but the plant was subsequ ently introduced to
+          ancient China, where it was known as "Persian vegetable"
+        </Text>
       </ScrollView>
-      <View style={{ position: "absolute", left: 0, right: 0, bottom: 0 }}>
+      {/* <View style={{ position: "absolute", left: 0, right: 0, bottom: 0 }}>
         <Text>Footer</Text>
-      </View>
+      </View> */}
     </View>
   );
 };
 
 const styles = StyleSheet.create({
   headerImage: {
-    width: 393,
+    width: "100%",
   },
   container: {
+    // position: "relative",
+    // flex: 2,
+    // padding: 20,
+    // marginBottom: 400,
+    // height: 20,
     padding: 20,
+    // maxHeight: 10,
   },
   detailTitle: {
     fontSize: 27,
     fontWeight: "bold",
+  },
+  description: {
+    fontSize: 16,
   },
 });
 
