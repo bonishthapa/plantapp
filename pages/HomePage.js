@@ -10,7 +10,12 @@ import {
 import PrimaryButton from "../components/PrimaryButton";
 
 const slideImage = [
-  { key: 1, image: require("../assets/homepage.png"), title: "Hello" },
+  {
+    key: 1,
+    image: require("../assets/homepage.png"),
+    title: "Hello",
+    subTitle: "You can identify the plants you don't know through your camera",
+  },
   { key: 2, image: require("../assets/homepage.png"), title: "Hello" },
   { key: 3, image: require("../assets/homepage.png"), title: "Hello" },
 ];
@@ -24,13 +29,14 @@ const HomePage = (props) => {
 
   const [currentSlideIndex, setCurrentSlideIndex] = React.useState(0);
 
-  const renderImage = ({ item }) => {
+  const renderImage = (item) => {
     return (
       <View>
         <Image
-          source={require("../assets/homepage.png")}
+          source={item.image}
           style={{ width, resizeMode: "contain", height: height * 0.75 }}
         />
+        <Text>{item.subTitle}</Text>
       </View>
     );
   };
